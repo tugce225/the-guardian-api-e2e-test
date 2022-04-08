@@ -1,6 +1,6 @@
 # Integration Test for guardianapis.com
 
-In this project, we test section ve tag endpoints on theguardian.com with Playwight test runner.
+In this project, we test section and tag endpoints on theguardian.com with Playwight test runner.
 This project contains two test suites;
 - Sections endpoint e2e test
 - Tags endpoint e2e test
